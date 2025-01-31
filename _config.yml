@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Chuqiao Huang
 
 # CUSTOMIZE
-# Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2025
+# Short bio or description about you (displayed in the header)
+description: Hi, my name is Corrine and I'm a junior student in NYU studying Computer Science. I  am from Chinese and this is my last semester in NYU. CSCI-UA 480 Student, Spring 2025
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -32,7 +32,7 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ch3807@nyu.edu
   facebook:
   flickr:
   github: ossd-s25
