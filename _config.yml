@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Chuqiao Huang
+name: Chuqiao(Corrine) Huang
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
@@ -17,7 +17,7 @@ description: Junior CS Major from New York, NY
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: 121738349862_.pic.jpg
+avatar: /ChuqiaoHuang-weekly/images/ProfilePic.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -36,7 +36,7 @@ footer-links:
   facebook:
   flickr:
   github: ChuqiaoHuang
-  instagram:
+  instagram: corrrine1223
   linkedin:
   pinterest:
   twitter:
