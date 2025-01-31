@@ -9,7 +9,7 @@ name: Chuqiao Huang
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: Hi, my name is Corrine and I'm a junior student in NYU studying Computer Science. I  am from Chinese and this is my last semester in NYU. CSCI-UA 480 Student, Spring 2025
+description: Junior CS Major from New York, NY
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -17,7 +17,7 @@ description: Hi, my name is Corrine and I'm a junior student in NYU studying Com
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: 121738349862_.pic.jpg
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -35,7 +35,7 @@ footer-links:
   email: ch3807@nyu.edu
   facebook:
   flickr:
-  github: ossd-s25
+  github: ChuqiaoHuang
   instagram:
   linkedin:
   pinterest:
@@ -50,14 +50,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s25.github.io/weekly"
+url: "https://ossd-s25.github.io/ChuqiaoHuang-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/ChuqiaoHuang-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
