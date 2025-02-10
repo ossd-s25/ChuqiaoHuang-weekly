@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 9   | [Shenzhen College of International Education](https://en.wikipedia.org/wiki/Special:Contributions/CorrineH)    | Wikipedia |   Adding school's mission for my highschool.   |
-|     |     |     |      |
+| Feb 9   | [Shenzhen College of International Education](https://en.wikipedia.org/wiki/Special:Contributions/CorrineH)    | Wikipedia |   Adding school's mission for my highschool. |
+| Feb 10 | [Episcopal High School (Alexandria, Virginia)](https://en.wikipedia.org/wiki/Episcopal_High_School_(Alexandria,_Virginia)) | Wikipedia | Updating the enrollment number, student to teacher ratio, and the tuition to the most recent data for my boyfriend's highschool. |
 |     |     |     |      |
