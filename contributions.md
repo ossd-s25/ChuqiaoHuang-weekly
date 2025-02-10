@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | [Shenzhen College of International Education](https://en.wikipedia.org/wiki/Special:Contributions/CorrineH)    | Wikipedia |   Adding school's mission for my highschool.   |
+| Feb 9   | [Shenzhen College of International Education](https://en.wikipedia.org/wiki/Special:Contributions/CorrineH)    | Wikipedia |   Adding school's mission for my highschool.   |
 |     |     |     |      |
 |     |     |     |      |
