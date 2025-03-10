@@ -1,0 +1,30 @@
+---
+layout: post
+title: Week 7 - Reflections on Our Group Work So Far
+---
+
+### Choosing the Project
+Our group decided to contribute to The Odin Project, an open-source platform dedicated to teaching web development for free. I first explored this project last week during a project evaluation, where I analyzed its structure, activity level, and community engagement. What stood out to me was that The Odin Project is highly active, with new issues being posted and resolved on GitHub almost daily. This indicated that the maintainers and contributors are actively involved, which is crucial for an open-source project, as it ensures that our contributions would be reviewed and merged in a timely manner.
+
+<!--more-->
+
+Another important factor in choosing this project was its accessibility and inclusiveness for contributors. Since The Odin Project itself is designed as a learning resource, it naturally has a more welcoming environment for new contributors. The project documentation is clear, and many issues are well-labeled, including beginner-friendly ones, which lowers the barrier to entry for those new to open-source contributions.
+
+Additionally, since the project focuses on web development, contributing to it aligns with real-world development skills that are valuable for our careers. Since most of our teammates have already learned web development in other courses, we have the basic knowledge needed to explore and resolve issues related to the platform. This familiarity gives us a strong foundation to contribute effectively. Moreover, beyond just fixing issues, we realized that we could potentially create new assignments or projects for learners to practice, making our contributions even more impactful.
+
+The codebase and technologies used in The Odin Project, such as JavaScript, Markdown, and Ruby, provide an opportunity for us to improve our skills while also making meaningful contributions. Given these advantages, we determined that The Odin Project would be a great choice for our group.
+
+### Deciding on the Right Repository
+One of the first challenges we faced was choosing between the two major repositories of The Odin Project: the main website repo and the curriculum repo. Initially, we considered contributing to the main website because it has a larger number of unresolved issues and frequent activity. However, after analyzing the types of issues available, we realized that this repository requires more advanced skills, particularly in Ruby on Rails, which not all of us are proficient in.
+
+In contrast, the curriculum repository, while slightly less active, still has new issues posted and resolved every day. It primarily involves updating learning materials, fixing typos, and improving explanations, making it a more beginner-friendly option for our first contributions. After reviewing the issues in both repositories, we concluded that the curriculum repo was a better starting point. Our plan is to contribute to this repository first and later transition to the main website once we gain more familiarity with the project and improve our Ruby skills.
+
+### Navigating the Contribution Process
+Another challenge we encountered was understanding the process of claiming an issue to work on. Unlike some projects where contributors can simply start working on an issue, The Odin Project requires contributors to request assignment in the issue section before making any changes. We realized that if we wanted to secure an issue, we needed to act quickly and ask for assignment as soon as we found one that matched our skill set.
+
+Right now, one of my teammates and I have selected specific issues that we are interested in fixing. Our next step is to formally request assignment for these issues so that we can begin contributing. This has been a valuable learning experience in understanding how open-source projects manage contributions and issue tracking.
+
+### Next Steps and Expectations
+Moving forward, our group plans to collaborate effectively to make meaningful contributions to The Odin Project. Our short-term goal is to successfully resolve issues in the curriculum repo while familiarizing ourselves with the project's structure and workflows. Once we gain confidence, we hope to transition into contributing to the main website repository, which will require us to enhance our Ruby skills.
+
+Despite some initial challenges, we are excited about the learning opportunities this project provides. We have already gained valuable insights into how open-source projects operate, and we look forward to continuing our contributions in the coming weeks.
