@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | March 13   | [Python (programming language)](https://en.wikipedia.org/w/index.php?diff=1280258434) | Wikipedia Edit |   Updated number of packages on PyPI for March 13th 2025 |
 | April 18   | [link](https://github.com/MunGell/awesome-for-beginners/pull/1606) | Github PR (merged) |   Remove Node Efficientnet from data.json for inactivity due to inactivity |
 | April 19   | [link](https://github.com/MunGell/awesome-for-beginners/pull/1609) | Github PR |   Add TOP to the open source project list in data.json  |
+| April 20   | [link](https://github.com/activist-org/activist/pull/1226) | Github PR |   Improve grammar and clarity in README.md file  |
