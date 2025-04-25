@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 | April 19   | [link](https://github.com/MunGell/awesome-for-beginners/pull/1609) | Github PR |   Add TOP to the open source project list in data.json  |
 | April 20   | [link](https://github.com/activist-org/activist/pull/1226) | Github PR |   Improve grammar and clarity in README.md file  |
 | April 23   | [link](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1025) | Github Issue |   Add new job post to SimplifyJobs New-Grad-Positions repository  |
+| April 24   | [link](https://github.com/alfg/opendrinks/pull/1439) | Github PR |   Add the image and recipe of Taro Milk Tea for [opendrinks](https://opendrinks.io)  |
