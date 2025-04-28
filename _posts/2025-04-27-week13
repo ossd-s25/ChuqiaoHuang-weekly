@@ -1,0 +1,30 @@
+---
+layout: post
+title: Week 13 - Presentation Highlights and Our Progress on The Odin Project
+---
+
+### Group Presentation
+This week, we watched two group presentations in class: one by the Prewald group and one by the Hugging Face group. Their presentations were inspiring and gave me many ideas about how I should continue my path in open source contribution.
+
+<!--more-->
+
+#### Prewald
+The Prewald team selected a fantastic project to contribute to. I was amazed by their choice, especially because Prewald is a startup, which gave them the chance to make meaningful contributions early on. Their presentation was excellent — the slides were straightforward, clear, and easy to understand. I was impressed by how much they accomplished in just half a semester.
+
+One part of their work that stood out to me was how they built new features and improved the structure of the project. It showed me that they were not afraid to take on bigger tasks as they became more comfortable with the codebase. I also surprised by how they handled challenges, like when they faced problems with the chatbot feature, but still found ways to move forward by learning from the existing code. I really liked the project they chose, and I am thinking about contributing to it in the future.
+
+#### Hugging Face
+The Hugging Face project looked very difficult. I did not think students in our class would be able to contribute in a project like Hugging Face in this course, especially because most of the students are unfamiliar with the field of AI and machine learning. However, their team decided to take on the challenge and made good progress over the past few weeks.
+
+During their presentation, I could tell that some team members were not very familiar with the project at the beginning. Even so, they worked together well and helped each other learn. Their teamwork made a strong impression on me. I also liked how they showed a diagram of their workflow, which made it easier to understand their process. Even though there was a lot of technical information, it showed how much effort they put into solving problems and learning new things.
+
+### Our Group Progress
+This week, we continued working on contributions to The Odin Project. I encouraged all my teammates to make sure they each have at least one pull request before next week. So far, Our group’s progress has been smooth.
+
+For my contribution this week, I fixed an AA contrast issue on their website. At first, I was not familiar with what AA contrast meant.I learned that AA contrast makes sure the text is easy to read by checking the color difference between text and background. At first, I didn’t know how to test if my fix worked. So I searched online and learned how to use developer tools and online contrast checkers to verify it. Solving this problem helped me become more comfortable with using developer tools for accessibility checks.
+
+Also, at the beginning of my contribution, I found that following their guide for installing Ruby caused problems. The guide led me to install an older Ruby version, so I could not start the server. I submitted a pull request to update their installation instructions to help future contributors avoid the same issue.
+
+For my next step, I plan to submit another pull request before next week. I have an idea to add a button on each learning path that lets users reset their progress for just that path. I thought of this because some users might finish a course but want to go back and relearn a specific path without resetting their entire account progress.
+
+As a group, our next step is to finish making our presentation slides and practice our presentation before next Tuesday. We have already scheduled meetings for the next two days and agreed to complete all assigned pull requests as soon as possible. It has been a great experience contributing to The Odin Project. We are all excited to continue our open source journey in the future!
